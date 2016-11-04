@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mr. Potatohead</string>
+    <string-array name="Parts">
+        <item>Shoes</item>
+        <item>Arms</item>
+        <item>Eyes</item>
+        <item>Mouth</item>
+        <item>Nose</item>
+        <item>Ears</item>
+        <item>Mustache</item>
+        <item>Eyebrows</item>
+        <item>Glasses</item>
+        <item>Hat</item>
+    </string-array>
+</resources>
